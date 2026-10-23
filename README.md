@@ -1,5 +1,3 @@
-<img alt="Octocat" src="https://github.com/nsierraj/nsierraj/blob/main/octocat-1792600227480.png" width="160" align="right">
-
 # Hi, I'm Amado Sierra 👋
 
 **I build the platforms other people's work runs on.**
