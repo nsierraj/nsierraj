@@ -1,22 +1,22 @@
-## Hi there 👋
+<img alt="Octocat" src="https://github.com/nsierraj/nsierraj/blob/main/octocat-1792600227480.png" width="160" align="right">
 
-<!--
-**nsierraj/nsierraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Amado Sierra 👋
 
-Here are some ideas to get you started:
+**I build the platforms other people's work runs on.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ServiceNow and enterprise service management leader, with platform engineering and DevOps as a second pillar, and a focus on putting AI into production service delivery. One through-line: **self-service under governance.**
 
-<img alt="octocat-1792600227480" src="https://github.com/nsierraj/nsierraj/blob/main/octocat-1792600227480.png" width="50%">
+## What I work on
 
-<!--
-<img alt="You may have a screen reader, but you still got rick rolled. Yes, this is a gif of Rick Astley's famous &quot;Never Gonna Give You Up&quot;." src="https://github.com/nsierraj/nsierraj/blob/main/nice.gif?raw=true" width="75%">
--->
+- **The service platform.** ITSM, ITOM, CMDB, asset management and GRC, run as a product rather than a request queue.
+- **The delivery platform.** DevOps and platform engineering: golden paths, CI/CD, and controls built into the pipeline.
+- **AI in production.** AI agents and developer AI tooling, with guardrails built into the workflows people already use.
+
+## Writing
+
+I write about ServiceNow, CMDB, AI agents, DevOps and governance on my [blog](https://nsierraj.github.io).
+
+## Find me
+
+- 🌐 Blog: [nsierraj.github.io](https://nsierraj.github.io)
+- 💼 LinkedIn: [linkedin.com/in/amadosierra](https://www.linkedin.com/in/amadosierra/)
